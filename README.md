@@ -1,5 +1,7 @@
 # Prodigy-Infotech-DS-Task-4
-# 📘 [Your Project Title Here]
+# 📘Build a decision tree classifier to predict whether a
+customer will purchase a product or service based on their
+demographic and behavioral data
 
 This project is a Jupyter Notebook involving [analysis/model/visualization] using Python libraries.
 
@@ -14,8 +16,8 @@ The notebook demonstrates steps from data loading to analysis/modeling including
 - scikit-learn (if used)
 
 ## 📁 Dataset
-- File: [dataset file used]
-- Source: [source if known]
+- File: twitter_training
+- Source: Kaggle
 
 ## 🚀 How to Run
 1. Install required libraries:
